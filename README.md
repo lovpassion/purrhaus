@@ -18,7 +18,7 @@
 
 ---
 
-## ✨ What is Purrhaus?
+## What is Purrhaus?
 
 Purrhaus is a small desktop app that turns your computer into a private, good-looking vault for your
 files and notes. Everything stays **on your machine** — there's no sign-up, no server, and nothing is
@@ -33,13 +33,10 @@ and picks your system language automatically on first launch (changeable anytime
 ## 📥 Get started
 
 1. **Download the latest [`Purrhaus.exe`](https://github.com/lovpassion/purrhaus/releases/latest)** (from the **Releases** page, under **Assets**).
-2. **Double-click it.** A real "Purrhaus" window opens — no browser, no terminal.
-3. A cat icon appears in your Windows tray. Closing the window tucks it into the tray; right-click the
-   icon for **Open / Restart / Start with Windows / Quit**.
+2. **Double-click it.** A "Purrhaus" window opens.
 
 > **Requirements:** Windows 10 or 11 with the **WebView2 runtime** (already installed on up-to-date
 > systems). The app is self-contained — nothing else to install.
->
 > Windows may show a "Windows protected your PC" notice for a new unsigned app. Click
 > **More info → Run anyway** if you trust the download.
 
