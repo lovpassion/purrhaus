@@ -32,7 +32,7 @@ and picks your system language automatically on first launch (changeable anytime
 
 ## 📥 Get started
 
-1. **[Download the latest `Purrhaus.exe`](https://github.com/lovpassion/purrhaus/releases/latest)** (from the **Releases** page, under **Assets**).
+1. **Download the latest [`Purrhaus.exe`](https://github.com/lovpassion/purrhaus/releases/latest)** (from the **Releases** page, under **Assets**).
 2. **Double-click it.** A real "Purrhaus" window opens — no browser, no terminal.
 3. A cat icon appears in your Windows tray. Closing the window tucks it into the tray; right-click the
    icon for **Open / Restart / Start with Windows / Quit**.
