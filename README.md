@@ -2,10 +2,10 @@
   <img src="mascot.png" alt="Purrhaus mascot" width="130">
 </p>
 
-<h1 align="center">🐾 Purrhaus</h1>
+<h1 align="center"> ฅ(ᵔ꒳ ᵔマ.ᐟ Purrhaus</h1>
 
 <p align="center">
-  <strong>Your private, 100% local file vault — a cozy little app for your files and notes.</strong>
+  <strong>Your private, local file vault — a cozy little app for your files and notes.</strong>
 </p>
 
 <p align="center">
