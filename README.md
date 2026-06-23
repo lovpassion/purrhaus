@@ -12,6 +12,10 @@
   <em>No cloud. No account. No tracking. Your files never leave your computer.</em>
 </p>
 
+<p align="center">
+  <a href="https://github.com/lovpassion/purrhaus/releases/latest"><img src="https://img.shields.io/github/v/release/lovpassion/purrhaus?label=Download%20for%20Windows&logo=windows&style=for-the-badge" alt="Download the latest release"></a>
+</p>
+
 ---
 
 ## ✨ What is Purrhaus?
@@ -28,7 +32,7 @@ and picks your system language automatically on first launch (changeable anytime
 
 ## 📥 Get started
 
-1. **Download `Purrhaus.exe`** from this repository (click the file above, then **Download**).
+1. **[Download the latest `Purrhaus.exe`](https://github.com/lovpassion/purrhaus/releases/latest)** (from the **Releases** page, under **Assets**).
 2. **Double-click it.** A real "Purrhaus" window opens — no browser, no terminal.
 3. A cat icon appears in your Windows tray. Closing the window tucks it into the tray; right-click the
    icon for **Open / Restart / Start with Windows / Quit**.
