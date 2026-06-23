@@ -20,7 +20,7 @@ Purrhaus is a small desktop app that turns your computer into a private, good-lo
 files and notes. Everything stays **on your machine** — there's no sign-up, no server, and nothing is
 uploaded unless *you* explicitly choose to share something.
 
-It looks and feels like a modern file explorer, with a kawaii cat theme, a built-in Markdown note
+It looks and feels like a modern file explorer, with a lot of cute themes, a built-in Markdown note
 editor, encryption, and a bunch of quality-of-life touches. The interface speaks **English or French**
 and picks your system language automatically on first launch (changeable anytime in Settings).
 
