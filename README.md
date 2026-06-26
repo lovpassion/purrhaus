@@ -21,8 +21,7 @@
 ## What is Purrhaus?
 
 Purrhaus is a small desktop app that turns your computer into a private, good-looking vault for your
-files and notes. Everything stays **on your machine** — there's no sign-up, no server, and nothing is
-uploaded unless *you* explicitly choose to share something.
+files and notes.
 
 It looks and feels like a modern file explorer, with a lot of cute themes, a built-in Markdown note
 editor, encryption, and a bunch of quality-of-life touches. The interface speaks **English or French**
@@ -38,11 +37,8 @@ and picks your system language automatically on first launch (changeable anytime
 > **Requirements:** Windows 10 or 11 with the **WebView2 runtime** (already installed on up-to-date
 > systems). The app is self-contained — nothing else to install.
 >
-> **"Windows protected your PC"?** That's SmartScreen flagging a new app that isn't code-signed
-> (a signing certificate is a paid yearly cost this hobby project doesn't have). It isn't a virus
-> alert, and the prompt fades as more people download the file. To continue: click **More info**,
-> then **Run anyway**. Want to be sure the file wasn't tampered with? Each release lists a **SHA-256**
-> for the asset on GitHub — compare it with `Get-FileHash Purrhaus.exe` in PowerShell.
+> **"Windows protected your PC"?** That's SmartScreen flagging a new app that isn't code-signed, to continue: click **More info**,
+> then **Run anyway**.
 
 ---
 
