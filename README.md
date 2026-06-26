@@ -29,7 +29,7 @@ and picks your system language automatically on first launch (changeable anytime
 
 ---
 
-## 📥 Get started
+##  Get started
 
 1. **Download the latest [`Purrhaus.exe`](https://github.com/lovpassion/purrhaus/releases/latest)** (from the **Releases** page, under **Assets**).
 2. **Double-click it.** A "Purrhaus" window opens.
@@ -42,7 +42,7 @@ and picks your system language automatically on first launch (changeable anytime
 
 ---
 
-## 🎀 Features at a glance
+##  Features at a glance
 
 **Files & folders**
 - Drag & drop import (files *and* whole folders), nested folders, breadcrumbs.
@@ -72,34 +72,13 @@ and picks your system language automatically on first launch (changeable anytime
 - Command palette (`Ctrl/Cmd + K`), dashboard, calendar, achievements, and a friendly mascot.
 - Backup & restore your whole vault to a (optionally encrypted) archive.
 
-**Sharing (only when you ask for it)**
+**Sharing**
 - Temporary share link with a QR code, device-to-device transfer over your own Wi-Fi, or an encrypted
   standalone file.
 
 ---
 
-## ❓ FAQ
-
-**Where are my files stored?**
-> Locally, inside the app's private storage on your computer. Nothing is uploaded automatically.
-
-**Is anything sent to the internet?**
-> Day-to-day use is fully offline. The only network calls are ones you trigger (a sharing feature),
-> plus an optional check at launch that asks GitHub whether a newer version exists — turn it off in
-> **Settings → Updates**. No analytics, ever.
-
-**I set an encryption passphrase and forgot it. Can it be recovered?**
-> No — by design. The passphrase is never saved, so keep it somewhere safe.
-
-**Can I move my vault to another computer?**
-> Yes. Use **Settings → Backup & restore** to export an archive, then restore it on the other machine.
-
-**Does it work on macOS or Linux?**
-> This download is for Windows. (The app is web-based under the hood, so other platforms may come later.)
-
----
-
-## 💜 About
+##  About
 
 Purrhaus is a passion project: a privacy-first, local-only home for your files, wrapped in a soft,
 playful interface. Made with care. 🐾
