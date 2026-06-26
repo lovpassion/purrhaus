@@ -37,8 +37,12 @@ and picks your system language automatically on first launch (changeable anytime
 
 > **Requirements:** Windows 10 or 11 with the **WebView2 runtime** (already installed on up-to-date
 > systems). The app is self-contained — nothing else to install.
-> Windows may show a "Windows protected your PC" notice for a new unsigned app. Click
-> **More info → Run anyway** if you trust the download.
+>
+> **"Windows protected your PC"?** That's SmartScreen flagging a new app that isn't code-signed
+> (a signing certificate is a paid yearly cost this hobby project doesn't have). It isn't a virus
+> alert, and the prompt fades as more people download the file. To continue: click **More info**,
+> then **Run anyway**. Want to be sure the file wasn't tampered with? Each release lists a **SHA-256**
+> for the asset on GitHub — compare it with `Get-FileHash Purrhaus.exe` in PowerShell.
 
 ---
 
@@ -55,6 +59,7 @@ and picks your system language automatically on first launch (changeable anytime
 - Markdown editor with `[[wiki-links]]`, backlinks, outline, and a notes **graph**.
 - Daily notes, templates, task lists, live split preview, and image/note embeds.
 - Syntax highlighting, with an optional advanced editor (line numbers, code folding, multi-cursor).
+- Export a note to **PDF** or print it, straight from the editor or the preview.
 
 **Media**
 - Inline previews for images, audio, video, PDF and text/code.
@@ -83,7 +88,9 @@ and picks your system language automatically on first launch (changeable anytime
 > Locally, inside the app's private storage on your computer. Nothing is uploaded automatically.
 
 **Is anything sent to the internet?**
-> Only if you deliberately use a sharing feature. Day-to-day use is fully offline.
+> Day-to-day use is fully offline. The only network calls are ones you trigger (a sharing feature),
+> plus an optional check at launch that asks GitHub whether a newer version exists — turn it off in
+> **Settings → Updates**. No analytics, ever.
 
 **I set an encryption passphrase and forgot it. Can it be recovered?**
 > No — by design. The passphrase is never saved, so keep it somewhere safe.
