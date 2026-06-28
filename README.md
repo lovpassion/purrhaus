@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  <em>No cloud. No account. No tracking. Your files never leave your computer.</em>
-</p>
-
-<p align="center">
   <a href="https://github.com/lovpassion/purrhaus/releases/latest"><img src="https://img.shields.io/github/v/release/lovpassion/purrhaus?label=Download%20for%20Windows&logo=windows&style=for-the-badge" alt="Download the latest release"></a>
 </p>
 
