@@ -32,10 +32,8 @@ and picks your system language automatically on first launch (changeable anytime
 ##  Get started
 
 1. **Download the latest [`Purrhaus.exe`](https://github.com/lovpassion/purrhaus/releases/latest)** (from the **Releases** page, under **Assets**).
-2. **Double-click it.** A "Purrhaus" window opens.
 
-> **Requirements:** Windows 10 or 11 with the **WebView2 runtime** (already installed on up-to-date
-> systems). The app is self-contained — nothing else to install.
+> The app is self-contained — nothing else to install.
 >
 > **"Windows protected your PC"?** That's SmartScreen flagging a new app that isn't code-signed, to continue: click **More info**,
 > then **Run anyway**.
